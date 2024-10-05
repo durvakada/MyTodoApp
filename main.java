@@ -55,5 +55,7 @@ public class TodoList {
         // Display all items
         myTodoList.displayTodoItems();
         System.out.ptintln("New thing i just added")
+            System.out.println("doo ");
+        
     }
 }
