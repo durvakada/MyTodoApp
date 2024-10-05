@@ -54,5 +54,6 @@ public class TodoList {
         
         // Display all items
         myTodoList.displayTodoItems();
+        System.out.println("New time i m xoing ")
     }
 }
